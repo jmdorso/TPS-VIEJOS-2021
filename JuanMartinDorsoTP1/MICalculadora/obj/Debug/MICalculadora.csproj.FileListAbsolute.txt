@@ -1,0 +1,13 @@
+C:\Users\paula\source\repos\tp_laboratorio_2_2021\JuanMartinDorsoTP1\MICalculadora\bin\Debug\MICalculadora.exe.config
+C:\Users\paula\source\repos\tp_laboratorio_2_2021\JuanMartinDorsoTP1\MICalculadora\bin\Debug\MICalculadora.exe
+C:\Users\paula\source\repos\tp_laboratorio_2_2021\JuanMartinDorsoTP1\MICalculadora\bin\Debug\MICalculadora.pdb
+C:\Users\paula\source\repos\tp_laboratorio_2_2021\JuanMartinDorsoTP1\MICalculadora\bin\Debug\Entidades.dll
+C:\Users\paula\source\repos\tp_laboratorio_2_2021\JuanMartinDorsoTP1\MICalculadora\bin\Debug\Entidades.pdb
+C:\Users\paula\source\repos\tp_laboratorio_2_2021\JuanMartinDorsoTP1\MICalculadora\obj\Debug\MICalculadora.csprojAssemblyReference.cache
+C:\Users\paula\source\repos\tp_laboratorio_2_2021\JuanMartinDorsoTP1\MICalculadora\obj\Debug\MICalculadora.FormCalculadora.resources
+C:\Users\paula\source\repos\tp_laboratorio_2_2021\JuanMartinDorsoTP1\MICalculadora\obj\Debug\MICalculadora.Properties.Resources.resources
+C:\Users\paula\source\repos\tp_laboratorio_2_2021\JuanMartinDorsoTP1\MICalculadora\obj\Debug\MICalculadora.csproj.GenerateResource.cache
+C:\Users\paula\source\repos\tp_laboratorio_2_2021\JuanMartinDorsoTP1\MICalculadora\obj\Debug\MICalculadora.csproj.CoreCompileInputs.cache
+C:\Users\paula\source\repos\tp_laboratorio_2_2021\JuanMartinDorsoTP1\MICalculadora\obj\Debug\MICalculadora.csproj.CopyComplete
+C:\Users\paula\source\repos\tp_laboratorio_2_2021\JuanMartinDorsoTP1\MICalculadora\obj\Debug\MICalculadora.exe
+C:\Users\paula\source\repos\tp_laboratorio_2_2021\JuanMartinDorsoTP1\MICalculadora\obj\Debug\MICalculadora.pdb
